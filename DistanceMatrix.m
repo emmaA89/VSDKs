@@ -1,3 +1,8 @@
+
+% The function is from
+% [G.E. Fasshauer, Meshfree Approximation Methods with Matlab,
+% World Scientific, Singapore, 2007]
+
 %-------------------------------------------------------------------------%
 %
 % File:     DistanceMatrix(dsites,ctrs)
